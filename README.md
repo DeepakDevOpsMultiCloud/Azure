@@ -1,0 +1,1 @@
+![](./azure-static-website/MY-images/Azure.png)
